@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "Piyush_ai",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -29,7 +29,7 @@
             "value":"true"
         },
        "HEROKU_API_KEY": {
-            "description": "For updating bot and setting vars remotely",
+            "description": "8ebab4ca-354f-4178-97cc-71ed5f4880a3",
             "required": true,
             "value":""
         },
@@ -44,7 +44,7 @@
             "value":"Raganork pack;Author name"
         },
         "CHATBOT": {
-            "description": "AI chatbot",
+            "description": "AIzaSyAAB7-bEPZOWIAtvyzfV8qhXHqdrsdL6DQ",
             "required": true,
             "value":"off"
         },
@@ -64,8 +64,8 @@
             "value":"private"
         },
         "SUDO": {
-            "description": "These numbers can control your bot. seperate with commas",
-            "required": false,
+            "description": "918777033301",
+            "required": true,
             "value":""
         },
         "BLOCK_CHAT": {
